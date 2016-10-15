@@ -5,9 +5,8 @@ My personal porfolio where you can find Info about me and about my work as Graph
 https://davidrela.github.io
 
 ## Notes
-- This is a Work In Progress.
-- The Contact Form is NOT working.
-- Responsive Site is NOT implemented yet.
+- Updated with minified version. Images optimized for phone connection. 15/10/2016
+- Update with new contact form. 12/10/2016
 
 ## License
 All rights reserved. David Rela. 2016.
